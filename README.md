@@ -1,7 +1,13 @@
 # Happiness Score 
 
 ## Goal of the Project 
-The goal of this assignment is to construct, analyze, and publish a dataset of monthly traffic on English Wikipedia from January 1 2008 through September 30 2017.Combine data Wikipedia traffic from two different Wikimedia REST API endpoints into a single dataset, perform some simple data processing steps on the data, and then analyze that data.
+In this project, I will explore and analysis what make human being happy. I will explore this based on the world happiness report. The world Happiness us a worldwide survey about happiness. They have 5 reports in total, the first one published in 2012, the second published in 2013, the third published in 2015, and the fourth in the 2016 Update. The World Happiness 2017 was released at the United Nations at an event celebrating International Day of Happiness on March 20th, which ranks 155 countries by their happiness levels.
+
+In my project, 
+Basically, my methods has 3 part.
+1. Visualizations & Statistically summary for Happiness score
+2. Coefficient correlation Calculation
+3. Multiple linear regression model prediction
 
 ### Data
 [world-happiness](https://www.kaggle.com/unsdsn/world-happiness/data) the datasets come from [Kaggele](www.kaggele.com). The world happiness contains three dataset. They are 2015.csv, 2016.csv, and 2017.csv. There are 12 varaibles for each data set. The varaible names , description and data type is in the following table. 
