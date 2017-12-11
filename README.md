@@ -9,6 +9,14 @@ Basically, my methods has 3 part.
 2. Coefficient correlation Calculation
 3. Multiple linear regression model prediction
 
+### Finding 
+
+1. The Bottom 10 happiness countries are Uganda, Yemen, Madagascar, Tanzania, Liberia, Guinea, Rwanda, Benin, Afghanistan, Togo, Syria and Burundi. Most of them are African countries.
+2. United States is not in top 10 but in rank 13 with 7.104 Happiness score.
+3. Economy( GDP per Capita), Health( Life Expectancy), and family is most correlated with happiness score. The Generosity is least correlated with happiness score.
+4. Freedom and Family influence the Happiness score most with high statically significant and Trust (Government Corruption) influence Happiness score with low statically significant.
+
+
 ### Data
 [world-happiness](https://www.kaggle.com/unsdsn/world-happiness/data) the datasets come from [Kaggele](www.kaggele.com). The world happiness contains three dataset. They are 2015.csv, 2016.csv, and 2017.csv. There are 12 varaibles for each data set. The varaible names , description and data type is in the following table. 
 
