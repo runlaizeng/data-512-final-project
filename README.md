@@ -39,6 +39,5 @@ data-512-final-project (master)
 |     Distrubition_of_Happniess_Score.png
 |     License
 |     README.md
-|     hcds-a1-data-curation.ipynb
 |	    Report with Code.ipynb
 ```
