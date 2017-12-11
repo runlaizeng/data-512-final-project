@@ -40,10 +40,6 @@ Basically, my methods has 3 part.
 1. [CC0 1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)
 2. terms of using datasets. Access to the dataset is subject to the [Kaggle Terms of Use](https://www.kaggle.com/terms) and [Rules](https://www.kaggle.com/c/expedia-hotel-recommendations/rules) of the competition.
 
-# See ipython notebook for full report
-[click here](https://github.com/runlaizeng/data-512-final-project/blob/master/Report_with_code.ipynb)
-
-
 
 
 ## Directory Structure
@@ -59,3 +55,7 @@ data-512-final-project (master)
 |
 
 ```
+
+# See ipython notebook for full report
+[click here](https://github.com/runlaizeng/data-512-final-project/blob/master/Report_with_code.ipynb)
+
