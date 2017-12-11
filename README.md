@@ -39,6 +39,7 @@ data-512-final-project (master)
 |     Distrubition_of_Happniess_Score.png
 |     License
 |     README.md
-|	   Report with Code.ipynb
+|	    Report with Code.ipynb
 |
+
 ```
